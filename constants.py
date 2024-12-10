@@ -127,7 +127,7 @@ DEFAULT_ADMIN_USERNAME = "admin"  # (str)
 DEFAULT_ADMIN_EMAIL = "kipronohfelex@gmail.com"  # (str)
 
 # Default admin password
-DEFAULT_ADMIN_PASSWORD = "admin"  # (str)
+DEFAULT_ADMIN_PASSWORD = "Fel28539257."  # (str)
 
 # Default starting point score for admin
 DEFAULT_ADMIN_POINT = 0  # (int)
