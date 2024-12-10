@@ -7,7 +7,7 @@ from modules import secrets, socket
 
 
 # Name of the Flask application
-APP_NAME = "flaskBlog"  # (str)
+APP_NAME = "Arval-cnt"  # (str)
 
 # Version of the Flask application
 APP_VERSION = "2.3.0"  # (str)
@@ -109,10 +109,10 @@ SMTP_SERVER = "smtp.gmail.com"  # (str)
 SMTP_PORT = 587  # (int)
 
 # SMTP mail address
-SMTP_MAIL = "flaskblogdogukanurker@gmail.com"  # (str)
+SMTP_MAIL = "kiruifelix03@gmail.com"  # (str)
 
 # SMTP mail password
-SMTP_PASSWORD = "lsooxsmnsfnhnixy"  # (str)
+SMTP_PASSWORD = "paqc wkpn zbes rpyo"  # (str)
 
 
 ### DEFAULT ADMIN ACCOUNT SETTINGS ###
@@ -124,7 +124,7 @@ DEFAULT_ADMIN = True  # (bool)
 DEFAULT_ADMIN_USERNAME = "admin"  # (str)
 
 # Default admin email address
-DEFAULT_ADMIN_EMAIL = "admin@flaskblog.com"  # (str)
+DEFAULT_ADMIN_EMAIL = "kipronohfelex@gmail.com"  # (str)
 
 # Default admin password
 DEFAULT_ADMIN_PASSWORD = "admin"  # (str)
